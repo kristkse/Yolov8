@@ -1,0 +1,8 @@
+path: "C:\\MASTER"  # Path to the root directory of your dataset
+train: train   # Path to the training images relative to the root directory
+val: valid     # Path to the validation images relative to the root directory
+
+
+# Classes
+names:
+  0: Knot
